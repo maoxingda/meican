@@ -1,2 +1,2 @@
 # meican
-faq
+daily life
