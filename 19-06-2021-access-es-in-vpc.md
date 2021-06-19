@@ -4,3 +4,5 @@
 
 ![image-20210619120816517](19-06-2021-access-es-in-vpc.assets/image-20210619120816517.png)
 
+![image-20210619201749067](19-06-2021-access-es-in-vpc.assets/image-20210619201749067.png)
+
